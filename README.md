@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olga
-- 🌱 I’m currently learning React native
-- 💞️ I’m looking for a front-end developer position in Madrid/Valencia/Barcelone. Remote job are highly welcome.
+- 🌱 I’m currently learning Webpack, TypeScript and Jest.
+- 💞️ I’m looking for a front-end developer position in Paris. Remote job are highly welcome.
 - 📫 How to reach me the.olga.afanasenko@gmail.com
 
 <!---
