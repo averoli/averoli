@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Olga
-- 🌱 I’m currently learning Webpack, TypeScript and Jest.
+- 👋 Hi, I’m Volha
+- 🌱 I’m currently styding MÁSTER EN SOFTWARE DEVELOPMENT in assemblerinstitute.com 
 <!-- - 💞️ I’m looking for a front-end developer position in Paris. Remote job are highly welcome. -->
-- 📫 How to reach me the.olga.afanasenko@gmail.com
+- 📫 How to reach me afanasenkavolha@gmail.com
 
 <!---
 - 👀 I’m interested in ...
