@@ -6,7 +6,7 @@
 --->
           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averoli&layout=donut-vertical)](https://github.com/averoli/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=averoli)](https://github.com/averoli/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Averoli)](https://github.com/averoli/github-readme-stats)
 <!-- - 💞️ I’m looking for a front-end developer position in Paris. Remote job are highly welcome. -->
 - 📫 How to reach me afanasenkavolha@gmail.com
 
