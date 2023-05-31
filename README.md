@@ -6,8 +6,6 @@
 
 🎯 2023 Goals: Learn more about DevOps
 
-🧭 Life Hack: "Motivation is a door that opens from the inside"
-
 
           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averoli&layout=donut-vertical)](https://github.com/averoli/github-readme-stats)
