@@ -2,7 +2,7 @@
 
 🚀 I am passionate about projects that can contribute to society and improve people's live.
 
-👀 I've a mindset of learning and curiosity
+👀 I have a mindset of learning and curiosity
 
 🎯 2023 Goals: Learn more about DevOps
 
